@@ -1,0 +1,2 @@
+Link do dokumentacji pakietu surprise - przyda się przy implementowaniu własnego algorytmu.
+https://surprise.readthedocs.io/en/stable/building_custom_algo.html
